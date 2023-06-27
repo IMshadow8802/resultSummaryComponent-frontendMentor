@@ -1,3 +1,3 @@
 # resultSummaryComponent-frontendMentor
 
-["Follow this link to view resulr"]("https://resultsummarychallenge-frontendmentor.netlify.app/")
+[Follow this link to view result]("https://resultsummarychallenge-frontendmentor.netlify.app/")
